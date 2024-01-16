@@ -38,7 +38,7 @@ When the command `cat` is used with no arguments, nothing happens till you type 
 ![image](cat1.png)
 
 **2. Working Directory:** `/home/lecture1` \
-When the command `cat` is used with a directory as an argument, it dispays an error saying that the command line argument is a directory as cat can only print contents in a file..\
+When the command `cat` is used with a directory as an argument, it dispays an error saying that the command line argument is a directory as `cat` can only print contents in a file..\
 *Error*\
 ![image](cat2.png)
 
