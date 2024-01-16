@@ -1,7 +1,7 @@
 # Lab Report 1 
 ## `Command cd`
 **1. Working Directory:** `/home` \
-When the command `cd` is used with no arguments, nothing is printed and nothing happens.\
+When the command `cd` is used with no arguments, it takes the user back to the `/home` or original directory.\
 *Not an Error*\
 ![image](cd1.png)
 
@@ -11,7 +11,7 @@ When the command `cd` is used with a directory as an argument, nothing is printe
 ![image](cd2.png)
 
 **3. Working Directory:** `/home/lecture1` \
-When the command `cd` is used with a path/file as an argument, an error is printed as command cd is used with directories (to enter or exit them) not files.\
+When the command `cd` is used with a path/file as an argument, an error is printed as command `cd` is used with directories (to enter or exit them) not files.\
 *Error*\
 ![image](cd3.png) 
 
