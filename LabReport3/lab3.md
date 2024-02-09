@@ -1,4 +1,4 @@
-# <u> **Lab Report 3** </u> 
+# **<u> Lab Report 3 </u>**
 ## **Part 1-Bugs**
 * `Failure Inducing Input`
 ```java
