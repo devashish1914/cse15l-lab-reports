@@ -1,4 +1,4 @@
-# <u> **Lab Report 2** </u>
+# **<u> Lab Report 2 </u>** 
 ## **Part 1**
 ### `Code for ChatServer` ###
 ```java
