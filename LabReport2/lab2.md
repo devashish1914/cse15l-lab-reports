@@ -1,4 +1,4 @@
-# **<u> Lab Report 2 </u>**
+# <u> **Lab Report 2** </u>
 ## **Part 1**
 ### `Code for ChatServer` ###
 ```java
@@ -62,7 +62,7 @@ When I add `/add-message?s=How are you&user=yash` to the `URI`, the `method hand
 ![screenshot2](image2.png)
 
 
-<br>
+
 
 ## **Part 2**
 ![image](part2general1.png)
@@ -71,12 +71,11 @@ When I add `/add-message?s=How are you&user=yash` to the `URI`, the `method hand
 **1. Absolute Path to the *Private Key*:** `C:\Users\Devashish\.ssh\id_rsa`
 ![Private Key](part2image1.png)
 
-**2. Absolute Path to the *Public Key*:** `C:\Users\Devashish\.ssh\id_rsa.pub` 
+**2. Absolute Path to the *Public Key*:** `/home/linux/ieng6/oce/8k/d2mehta/.ssh/authorized_keys` 
 ![Public Key](part2image2.png)
 
 **3. Logging into `ieng6`:** \
 ![Account login without password](part2image3.png)
-<br>
 
 ## **Part 3**
 Weeks 2 and 3 were extremely enriching. I had no idea of many of the commands, like`ssh`, `scp`, `mkdir`, etc., and absolutely no knowledge of how servers worked prior to these weeks. I have not only expanded my understanding of these but also learned the right approach to testing and debugging.
