@@ -24,7 +24,7 @@ Keys pressed: `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>` 
 
 **6. Step 9 - Committing and pushing the resulting change to my Github account** \
 Keys pressed:
-`git add ListExamples.java ` `<enter>` `git commit -m "Corrected minor error by changing index1 to index2 at one instance"` `<enter>`  `git push` `<enter>` `devashish1914` `<enter>` `Ctrl-C` `<Ctrl-V>` `<enter>`. Adding, committing and pushing the file to GitHub. For pushing the file I copied my personal access token and pasted it when ther terminal asked for the password. \
+`git add ListExamples.java ` `<enter>` `git commit -m "Corrected minor error by changing index1 to index2 at one instance"` `<enter>`  `git push` `<enter>` `devashish1914` `<enter>` `<Ctrl-C>` `<Ctrl-V>` `<enter>`. Adding, committing and pushing the file to GitHub. For pushing the file I copied my personal access token and pasted it when ther terminal asked for the password. \
 ![Step9_img1](Step9image1.png) 
 ![Step9_img2](Step9image2.png) 
 
