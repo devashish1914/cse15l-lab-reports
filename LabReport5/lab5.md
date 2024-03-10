@@ -32,7 +32,7 @@ Running `bash test.sh` in `powershell` made me encounter that error.
 As soon as I ran the same command in `git bash`, the error went away. This caused the symptom to go away and the correct output to be displayed in the terminal. I only needed to edit where I was running the command to fix the error.i.e,running it on `git bash` instead of `powershell`. 
 ![Correct Output](correctoutput.png)  
 
-<br> </br>
+
 
 ## **Part 2: Reflection**
 I have learned innumerable things in the second half of this quarter. The atmosphere created by the professor, tutors, and TAs created an environment that fostered learning. I could have never edited a file inside the terminal before being taught about vim in the lecture. I learned some useful debugging techniques, including but not limited to JDB. I learned how git works. I do not have words to express my deep gratitude for everyone involved in teaching and making this course a reality.
